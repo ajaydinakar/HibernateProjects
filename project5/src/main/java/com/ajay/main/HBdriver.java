@@ -33,9 +33,9 @@ public class HBdriver {
 		//
 	try {
 		Student st =new Student();
-		st.setId(9);
-		st.setName("john doe");
-		st.setAge(65);
+		st.setId(10);
+		st.setName("john harvey");
+		st.setAge(6);
 		ses1.save(st);
 		ses2.save(st);
 		ses3.save(st);
