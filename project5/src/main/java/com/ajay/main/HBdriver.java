@@ -30,6 +30,7 @@ public class HBdriver {
 		Transaction tx1=ses1.beginTransaction();
 		Transaction tx2=ses2.beginTransaction();
 		Transaction tx3=ses3.beginTransaction();
+		//
 	try {
 		Student st =new Student();
 		st.setId(9);
