@@ -11,3 +11,5 @@
 $ mvn spring-boot:run
 ```
 
+
+** ref:https://spring.io/guides/gs/accessing-data-mysql/
